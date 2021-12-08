@@ -37,10 +37,10 @@ void loop (char c[3][3]){
   tablero(c);
 
   if(j == 0){
-    printf("El jugador 1 ha ganado");
-  }else if(j == 1){
-    printf("El jugador 2 ha ganado");
-  }else{
+    printf("El jugador 1 ha ganado\n");
+  }if(j == 1){
+    printf("El jugador 2 ha ganado\n");
+  }if(j == 2){
     printf("Empate! Inténtalo de nuevo!");
   }
 }
@@ -62,7 +62,7 @@ void Jugador_1 (char c[3][3]){
 
   do{
     do{
-      printf("Coloca una ficha: ");
+      printf("Coloca una ficha jugador 1: \n");
       fflush (stdin);
       scanf ("%c", &x);
     }while(x < '1' || x > '9');
@@ -162,7 +162,7 @@ void Jugador_2 (char c[3][3]){
 
   do{
     do{
-      printf("Coloca una ficha: ");
+      printf("Coloca una ficha jugador 2:\n\n");
       fflush (stdin);
       scanf ("%c", &x);
     }while(x < '1' || x > '9');
