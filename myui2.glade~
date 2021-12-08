@@ -21,7 +21,7 @@
             <property name="visible">True</property>
             <property name="can_focus">False</property>
             <child>
-              <object class="GtkButton" id="one">
+              <object class="GtkButton" id="uno_1">
                 <property name="label" translatable="yes">1</property>
                 <property name="visible">True</property>
                 <property name="can_focus">True</property>
@@ -35,7 +35,7 @@
               </packing>
             </child>
             <child>
-              <object class="GtkButton" id="two">
+              <object class="GtkButton" id="dos_">
                 <property name="label" translatable="yes">2</property>
                 <property name="visible">True</property>
                 <property name="can_focus">True</property>
@@ -49,7 +49,7 @@
               </packing>
             </child>
             <child>
-              <object class="GtkButton" id="three">
+              <object class="GtkButton" id="tres_">
                 <property name="label" translatable="yes">3</property>
                 <property name="visible">True</property>
                 <property name="can_focus">True</property>
@@ -74,7 +74,7 @@
             <property name="visible">True</property>
             <property name="can_focus">False</property>
             <child>
-              <object class="GtkButton" id="four">
+              <object class="GtkButton" id="cuatro_">
                 <property name="label" translatable="yes">4</property>
                 <property name="visible">True</property>
                 <property name="can_focus">True</property>
@@ -88,7 +88,7 @@
               </packing>
             </child>
             <child>
-              <object class="GtkButton" id="five">
+              <object class="GtkButton" id="cinco_">
                 <property name="label" translatable="yes">5</property>
                 <property name="visible">True</property>
                 <property name="can_focus">True</property>
@@ -102,7 +102,7 @@
               </packing>
             </child>
             <child>
-              <object class="GtkButton" id="six">
+              <object class="GtkButton" id="seis_">
                 <property name="label" translatable="yes">6</property>
                 <property name="visible">True</property>
                 <property name="can_focus">True</property>
@@ -127,7 +127,7 @@
             <property name="visible">True</property>
             <property name="can_focus">False</property>
             <child>
-              <object class="GtkButton" id="seven">
+              <object class="GtkButton" id="siete_">
                 <property name="label" translatable="yes">7</property>
                 <property name="visible">True</property>
                 <property name="can_focus">True</property>
@@ -141,7 +141,7 @@
               </packing>
             </child>
             <child>
-              <object class="GtkButton" id="eight">
+              <object class="GtkButton" id="ocho_">
                 <property name="label" translatable="yes">8</property>
                 <property name="visible">True</property>
                 <property name="can_focus">True</property>
@@ -155,7 +155,7 @@
               </packing>
             </child>
             <child>
-              <object class="GtkButton" id="nine">
+              <object class="GtkButton" id="nueve_">
                 <property name="label" translatable="yes">9</property>
                 <property name="visible">True</property>
                 <property name="can_focus">True</property>

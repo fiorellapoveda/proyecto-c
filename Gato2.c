@@ -31,7 +31,7 @@ void loop (char c[3][3]){
     }
     j = ganador(c);
     i++;
-  }while(i <= 9 && j == 2);
+  }while(i <= 8 && j == 2);
 
   system("clear"); //Borra todo lo que hay en pantalla
   tablero(c);
