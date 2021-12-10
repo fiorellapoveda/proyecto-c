@@ -1,0 +1,10 @@
+Instructions for Tic Tac Toe.
+
+- After writing in the terminal the list of comands listed in the README.md, a window with a grid is going to pop up.
+- When this happens, the first player would be always the X one. You can clicked in any of the night cells and a X is going to be drawn in that possition.
+- Then, its the turn of the O player. In the same way, you can clicked in any of the empty eight cells and, in this case a O in going to be drawn.
+- The game is going to switching between playes after every clicked.
+- To win, you have to draw your symbol in the consecutives cells; it could be in a row, a column or even a diagonal.
+- Once a player has won, the grid a the symbols are going to change to the color of the player; red if the X player won or blue if the O player won.
+- A tie occurs when no player a three in a row and there's no more cells to fill. In this case, the grid and the elements will be colored gray.
+- Once the gray is colored, you can click anywhere in the window to play again or click this x button in the upper right corner to quit.
